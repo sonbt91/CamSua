@@ -1,0 +1,6 @@
+framework module Pods_CamSuaCore {
+  umbrella header "Pods-CamSuaCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
