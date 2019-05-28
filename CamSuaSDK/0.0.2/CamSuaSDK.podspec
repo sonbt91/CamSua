@@ -1,13 +1,13 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "CamSua"
-  s.version      = "0.0.1"
-  s.summary      = "A short description of CamSua."
+  s.name         = "CamSuaSDK"
+  s.version      = "0.0.2"
+  s.summary      = "A short description of CamSuaSDK."
 
 
   s.description  = <<-DESC
-  						CamSua framework - Description
+  						CamSua SDK - Description
                    DESC
 
   s.homepage     = "https://github.com/sonbt91/CamSua"
