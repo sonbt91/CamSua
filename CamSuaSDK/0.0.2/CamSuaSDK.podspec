@@ -120,7 +120,7 @@ Pod::Spec.new do |s|
 
   s.swift_version = "4.2"
 
-  s.subspec 'CamSuaCore' do |sp|
+  s.subspec 'CamSuaSDK' do |sp|
     sp.source_files =  "CamSua", "CamSua/CamSuaCore/**/*.{h,m}" 
   end
 
